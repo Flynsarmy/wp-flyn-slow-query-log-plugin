@@ -2,7 +2,7 @@
 /*
 Plugin Name: Slow Query Log
 Description: Adds a Network Dashboard page for MySQL slow queries
-Version: 1.0
+Version: 1.01
 Plugin URI: https://www.flynsarmy.com/
 Author: Flyn San
 Author URI: https://www.flynsarmy.com

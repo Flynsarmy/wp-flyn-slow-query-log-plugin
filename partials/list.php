@@ -8,7 +8,7 @@
     <tbody>
     <?php
     if ( !$queries ):
-        ?><tr><td colspan='5'>No queries logged yet.</td></tr><?php
+        ?><tr><td colspan='3'>No queries logged yet.</td></tr><?php
     else:
         foreach ( $queries as $query ):
             ?>
