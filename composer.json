@@ -1,0 +1,13 @@
+{
+    "name": "flynsarmy/flyn-slow-query-log",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "flynsarmy",
+            "email": "flynsarmy@gmail.com"
+        }
+    ],
+    "require": {
+        "jdorn/sql-formatter": "^1.2"
+    }
+}
